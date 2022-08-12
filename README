@@ -1,0 +1,7 @@
+# Ruby on Rails 非官方中文指南
+
+由 Rails 仓库翻译，并编译生成到 output/zh-CN 目录下，然后拷贝到 docs 下。
+
+cp rails/guides/output/zh-CN/ docs -r
+
+提交到仓库即可。
